@@ -1,0 +1,5 @@
+# Site settings
+title: Serata Hamburger
+
+plugins:
+    - jekyll-leaflet
