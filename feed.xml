@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-08T16:13:04+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Serata Hamburger</title><entry><title type="html">Dovesiamo</title><link href="http://localhost:4000/1010/01/01/dovesiamo.html" rel="alternate" type="text/html" title="Dovesiamo" /><published>1010-01-01T00:01:52+00:49</published><updated>1010-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1010/01/01/dovesiamo</id><content type="html" xml:base="http://localhost:4000/1010/01/01/dovesiamo.html"><![CDATA[<h2 id="dove-trovarci">Dove trovarci</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-08T16:17:51+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Serata Hamburger</title><entry><title type="html">Dovesiamo</title><link href="http://localhost:4000/1010/01/01/dovesiamo.html" rel="alternate" type="text/html" title="Dovesiamo" /><published>1010-01-01T00:01:52+00:49</published><updated>1010-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1010/01/01/dovesiamo</id><content type="html" xml:base="http://localhost:4000/1010/01/01/dovesiamo.html"><![CDATA[<h2 id="dove-trovarci">Dove trovarci</h2>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3147.4072426174216!2d15.985908215779236!3d37.9209155797332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1314ed73d3a4c83d%3A0xefeddf3a35f7a04c!2sVia%20Ariella%2C%2042%2C%2089038%20Palizzi%20Marina%20RC!5e0!3m2!1sit!2sit!4v1659271523796!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>]]></content><author><name></name></author><summary type="html"><![CDATA[Dove trovarci]]></summary></entry><entry><title type="html">Noname</title><link href="http://localhost:4000/1003/03/01/noname.html" rel="alternate" type="text/html" title="Noname" /><published>1003-03-01T00:01:52+00:49</published><updated>1003-03-01T00:01:52+00:49</updated><id>http://localhost:4000/1003/03/01/noname</id><content type="html" xml:base="http://localhost:4000/1003/03/01/noname.html"><![CDATA[<h2 id="hamburger-noname">Hamburger Noname</h2>
 
@@ -67,6 +67,12 @@
       <td><img src="./images/Alessia.JPG" alt="Alessia" /></td>
       <td>Claudia</td>
       <td><img src="./images/Claudia.jpg" alt="Claudia" /></td>
+    </tr>
+    <tr>
+      <td>Maria Olimpia</td>
+      <td><img src="./images/Olimpia.jpeg" alt="Maria Olimpia" /></td>
+      <td> </td>
+      <td> </td>
     </tr>
   </tbody>
 </table>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger the greak neack]]></summary></entry><entry><title type="html">Grekneack</title><link href="http://localhost:4000/1001/02/01/grekneack.html" rel="alternate" type="text/html" title="Grekneack" /><published>1001-02-01T00:01:52+00:49</published><updated>1001-02-01T00:01:52+00:49</updated><id>http://localhost:4000/1001/02/01/grekneack</id><content type="html" xml:base="http://localhost:4000/1001/02/01/grekneack.html"><![CDATA[<h2 id="hamburger-the-greak-neack">Hamburger the greak neack</h2>
