@@ -4,4 +4,4 @@ layout: presentation
 
 ## Hamburger the greak neack
 
-![Picture example](./images/greakneack.jpg)
+![Il Panino](./images/greakneack.jpg)
