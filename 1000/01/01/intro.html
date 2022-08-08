@@ -50,7 +50,7 @@
 	<body>
 
         <h2 id="benvenuti-alla-serata-hamburger">Benvenuti alla serata Hamburger!</h2>
-<h3 id="10-agosto-2022">10 Agosto 2022</h3>
+<h3 id="9-agosto-2022">9 Agosto 2022</h3>
 
 
 		<script src="lib/js/head.min.js"></script>
@@ -69,12 +69,12 @@
 
         // More info https://github.com/hakimel/reveal.js#dependencies
         dependencies: [
-            { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-            { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-            { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-            { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-            { src: 'plugin/zoom-js/zoom.js', async: true },
-            { src: 'plugin/notes/notes.js', async: true }
+            { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+            { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+            { src: './plugin/zoom/zoom.js', async: true },
+            { src: './plugin/notes/notes.js', async: true }
         ]
     });
 
