@@ -8,3 +8,4 @@ layout: presentation
 
 |![Vincenzo](./images/vincenzo.jpg)|Vincenzo| ![Fabio](./images/Fabio.jpg) | Fabio |
 | Alessia |![Alessia](./images/Alessia.JPG) | Claudia | ![Claudia](./images/Claudia.jpg) |
+| Maria Olimpia | ![Maria Olimpia](./images/Olimpia.jpeg) | | |
