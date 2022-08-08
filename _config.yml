@@ -3,3 +3,4 @@ title: Serata Hamburger
 
 plugins:
     - jekyll-leaflet
+    - jekyll-seo-tag
