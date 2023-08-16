@@ -1,89 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-08T16:34:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Serata Hamburger</title><entry><title type="html">Dovesiamo</title><link href="http://localhost:4000/1010/01/01/dovesiamo.html" rel="alternate" type="text/html" title="Dovesiamo" /><published>1010-01-01T00:01:52+00:49</published><updated>1010-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1010/01/01/dovesiamo</id><content type="html" xml:base="http://localhost:4000/1010/01/01/dovesiamo.html"><![CDATA[<h2 id="dove-trovarci">Dove trovarci</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-16T21:50:30+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Serata Hamburger</title><entry><title type="html">Dovesiamo</title><link href="http://localhost:4000/1010/01/01/dovesiamo.html" rel="alternate" type="text/html" title="Dovesiamo" /><published>1010-01-01T00:01:52+00:49</published><updated>1010-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1010/01/01/dovesiamo</id><content type="html" xml:base="http://localhost:4000/1010/01/01/dovesiamo.html"><![CDATA[<h2 id="dove-trovarci">Dove trovarci</h2>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3147.4072426174216!2d15.985908215779236!3d37.9209155797332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1314ed73d3a4c83d%3A0xefeddf3a35f7a04c!2sVia%20Ariella%2C%2042%2C%2089038%20Palizzi%20Marina%20RC!5e0!3m2!1sit!2sit!4v1659271523796!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>]]></content><author><name></name></author><summary type="html"><![CDATA[Dove trovarci]]></summary></entry><entry><title type="html">Noname</title><link href="http://localhost:4000/1003/03/01/noname.html" rel="alternate" type="text/html" title="Noname" /><published>1003-03-01T00:01:52+00:49</published><updated>1003-03-01T00:01:52+00:49</updated><id>http://localhost:4000/1003/03/01/noname</id><content type="html" xml:base="http://localhost:4000/1003/03/01/noname.html"><![CDATA[<h2 id="hamburger-noname">Hamburger Noname</h2>
-
-<h4 id="lo-hanno-scelto">Lo hanno scelto</h4>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img src="./images/Dario.jpg" alt="Dario" /></td>
-      <td>Dario</td>
-    </tr>
-    <tr>
-      <td>Salvatore</td>
-      <td><img src="./images/Salvatore.jpg" alt="Salvatore" /></td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger Noname]]></summary></entry><entry><title type="html">Noname</title><link href="http://localhost:4000/1003/02/01/noname.html" rel="alternate" type="text/html" title="Noname" /><published>1003-02-01T00:01:52+00:49</published><updated>1003-02-01T00:01:52+00:49</updated><id>http://localhost:4000/1003/02/01/noname</id><content type="html" xml:base="http://localhost:4000/1003/02/01/noname.html"><![CDATA[<h2 id="hamburger-noname">Hamburger Noname</h2>
-
-<p><img src="./images/noname.jpg" alt="Il Panino" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger Noname]]></summary></entry><entry><title type="html">Noname</title><link href="http://localhost:4000/1003/01/01/noname.html" rel="alternate" type="text/html" title="Noname" /><published>1003-01-01T00:01:52+00:49</published><updated>1003-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1003/01/01/noname</id><content type="html" xml:base="http://localhost:4000/1003/01/01/noname.html"><![CDATA[<h2 id="hamburger-noname">Hamburger Noname</h2>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3147.4072426174216!2d15.985908215779236!3d37.9209155797332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1314ed73d3a4c83d%3A0xefeddf3a35f7a04c!2sVia%20Ariella%2C%2042%2C%2089038%20Palizzi%20Marina%20RC!5e0!3m2!1sit!2sit!4v1659271523796!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>]]></content><author><name></name></author><summary type="html"><![CDATA[Dove trovarci]]></summary></entry><entry><title type="html">Carbonfree</title><link href="http://localhost:4000/1003/02/01/carbonfree.html" rel="alternate" type="text/html" title="Carbonfree" /><published>1003-02-01T00:01:52+00:49</published><updated>1003-02-01T00:01:52+00:49</updated><id>http://localhost:4000/1003/02/01/carbonfree</id><content type="html" xml:base="http://localhost:4000/1003/02/01/carbonfree.html"><![CDATA[<h2 id="hamburger-carbon-free">Hamburger carbon free</h2>
+<h4 id="lo-hanno-scelto">Lo hanno scelto</h4>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger carbon free Lo hanno scelto]]></summary></entry><entry><title type="html">Carbonfree</title><link href="http://localhost:4000/1003/01/01/carbonfree.html" rel="alternate" type="text/html" title="Carbonfree" /><published>1003-01-01T00:01:52+00:49</published><updated>1003-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1003/01/01/carbonfree</id><content type="html" xml:base="http://localhost:4000/1003/01/01/carbonfree.html"><![CDATA[<h2 id="hamburger-carbon-free">Hamburger carbon free</h2>
 
 <ul>
-  <li>Stracciatella</li>
-  <li>Funghi</li>
+  <li>Carne al piatto</li>
+  <li>Salsa tonnata</li>
+  <li>Insalata</li>
+  <li>Pomodori</li>
+  <li>Spianata calabrese (opzionale)</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger carbon free]]></summary></entry><entry><title type="html">Hardcuore</title><link href="http://localhost:4000/1002/02/01/hardcuore.html" rel="alternate" type="text/html" title="Hardcuore" /><published>1002-02-01T00:01:52+00:49</published><updated>1002-02-01T00:01:52+00:49</updated><id>http://localhost:4000/1002/02/01/hardcuore</id><content type="html" xml:base="http://localhost:4000/1002/02/01/hardcuore.html"><![CDATA[<h2 id="hamburger-hardcuore">Hamburger hardc(u)ore</h2>
+<h4 id="lo-hanno-scelto">Lo hanno scelto</h4>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger hardc(u)ore Lo hanno scelto]]></summary></entry><entry><title type="html">Hardcuore</title><link href="http://localhost:4000/1002/01/01/hardcuore.html" rel="alternate" type="text/html" title="Hardcuore" /><published>1002-01-01T00:01:52+00:49</published><updated>1002-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1002/01/01/hardcuore</id><content type="html" xml:base="http://localhost:4000/1002/01/01/hardcuore.html"><![CDATA[<h2 id="hamburger-hardcuore">Hamburger hardc(u)ore:</h2>
+
+<ul>
+  <li>Carne</li>
+  <li>Uovo cocque a cascata</li>
   <li>Cipolla</li>
-  <li>Pancetta</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger Noname]]></summary></entry><entry><title type="html">Campioniditalia</title><link href="http://localhost:4000/1002/02/01/campioniditalia.html" rel="alternate" type="text/html" title="Campioniditalia" /><published>1002-02-01T00:01:52+00:49</published><updated>1002-02-01T00:01:52+00:49</updated><id>http://localhost:4000/1002/02/01/campioniditalia</id><content type="html" xml:base="http://localhost:4000/1002/02/01/campioniditalia.html"><![CDATA[<h2 id="hamburger-campioni-ditalia">Hamburger Campioni d’Italia</h2>
-
+  <li>Provola</li>
+  <li>Capocollo</li>
+  <li>Melanzane (opzionale)</li>
+  <li>Peperoni (opzionale)</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger hardc(u)ore:]]></summary></entry><entry><title type="html">Delicacato</title><link href="http://localhost:4000/1001/02/01/delicacato.html" rel="alternate" type="text/html" title="Delicacato" /><published>1001-02-01T00:01:52+00:49</published><updated>1001-02-01T00:01:52+00:49</updated><id>http://localhost:4000/1001/02/01/delicacato</id><content type="html" xml:base="http://localhost:4000/1001/02/01/delicacato.html"><![CDATA[<h2 id="hamburger-delicacato">Hamburger delicacato</h2>
+<h3 id="claire-version">(Claire version)</h3>
 <h4 id="lo-hanno-scelto">Lo hanno scelto</h4>
 
 <table>
   <tbody>
     <tr>
-      <td><img src="./images/Alberto.jpg" alt="Alberto" /></td>
-      <td>Alberto</td>
-      <td><img src="./images/Irma.jpeg" alt="Irma" /></td>
-      <td>Irma</td>
-    </tr>
-    <tr>
-      <td>Chiara</td>
-      <td><img src="./images/Chiara.jpg" alt="Chiara" /></td>
-      <td>Gabriele</td>
-      <td><img src="./images/Gabriele.jpeg" alt="Gabriele" /></td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger Campioni d’Italia]]></summary></entry><entry><title type="html">Campioniditalia</title><link href="http://localhost:4000/1002/01/01/campioniditalia.html" rel="alternate" type="text/html" title="Campioniditalia" /><published>1002-01-01T00:01:52+00:49</published><updated>1002-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1002/01/01/campioniditalia</id><content type="html" xml:base="http://localhost:4000/1002/01/01/campioniditalia.html"><![CDATA[<h2 id="hamburger-campioni-ditalia">Hamburger Campioni d’Italia</h2>
-
-<ul>
-  <li>Carne con pesto (opzionabile)</li>
-  <li>Pesto fresco</li>
-  <li>Mozzarella di bufala/burrata</li>
-  <li>Pomodoro</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger Campioni d’Italia]]></summary></entry><entry><title type="html">Grekneack</title><link href="http://localhost:4000/1001/03/01/grekneack.html" rel="alternate" type="text/html" title="Grekneack" /><published>1001-03-01T00:01:52+00:49</published><updated>1001-03-01T00:01:52+00:49</updated><id>http://localhost:4000/1001/03/01/grekneack</id><content type="html" xml:base="http://localhost:4000/1001/03/01/grekneack.html"><![CDATA[<h2 id="hamburger-the-greak-neack">Hamburger the greak neack</h2>
-
-<h4 id="lo-hanno-scelto">Lo hanno scelto</h4>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img src="./images/vincenzo.jpg" alt="Vincenzo" /></td>
-      <td>Vincenzo</td>
-      <td><img src="./images/Fabio.jpg" alt="Fabio" /></td>
+      <td><img src="./images/Fabio.jpg" alt="Dario" /></td>
       <td>Fabio</td>
     </tr>
     <tr>
-      <td>Alessia</td>
-      <td><img src="./images/Alessia.JPG" alt="Alessia" /></td>
-      <td>Claudia</td>
-      <td><img src="./images/Claudia.jpg" alt="Claudia" /></td>
-    </tr>
-    <tr>
-      <td><img src="./images/Olimpia.jpeg" alt="Maria Olimpia" /></td>
-      <td>Maria Olimpia</td>
-      <td><img src="./images/saverio.jpg" alt="Saverio" /></td>
-      <td>Saverio</td>
+      <td>Chiara</td>
+      <td><img src="./images/Chiara.jpg" alt="Salvatore" /></td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger the greak neack]]></summary></entry><entry><title type="html">Grekneack</title><link href="http://localhost:4000/1001/02/01/grekneack.html" rel="alternate" type="text/html" title="Grekneack" /><published>1001-02-01T00:01:52+00:49</published><updated>1001-02-01T00:01:52+00:49</updated><id>http://localhost:4000/1001/02/01/grekneack</id><content type="html" xml:base="http://localhost:4000/1001/02/01/grekneack.html"><![CDATA[<h2 id="hamburger-the-greak-neack">Hamburger the greak neack</h2>
-
-<p><img src="./images/greakneack.jpg" alt="Il Panino" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger the greak neack]]></summary></entry><entry><title type="html">Grekneack</title><link href="http://localhost:4000/1001/01/01/grekneack.html" rel="alternate" type="text/html" title="Grekneack" /><published>1001-01-01T00:01:52+00:49</published><updated>1001-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1001/01/01/grekneack</id><content type="html" xml:base="http://localhost:4000/1001/01/01/grekneack.html"><![CDATA[<h2 id="hamburger-the-greak-neack">Hamburger the greak neack</h2>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger delicacato (Claire version) Lo hanno scelto]]></summary></entry><entry><title type="html">Delicacato</title><link href="http://localhost:4000/1001/01/01/delicacato.html" rel="alternate" type="text/html" title="Delicacato" /><published>1001-01-01T00:01:52+00:49</published><updated>1001-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1001/01/01/delicacato</id><content type="html" xml:base="http://localhost:4000/1001/01/01/delicacato.html"><![CDATA[<h2 id="hamburger-delicacato">Hamburger delicacato</h2>
+<h3 id="claire-version">(Claire version)</h3>
 
 <ul>
-  <li>Salsina yogurt e ‘nduja</li>
-  <li>Hamburger con dentro formaggio</li>
-  <li>Guacamole</li>
-  <li>Pancetta/coppa</li>
-  <li>Cipolla caramellata</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger the greak neack]]></summary></entry><entry><title type="html">Intro</title><link href="http://localhost:4000/1000/01/01/intro.html" rel="alternate" type="text/html" title="Intro" /><published>1000-01-01T00:01:52+00:49</published><updated>1000-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1000/01/01/intro</id><content type="html" xml:base="http://localhost:4000/1000/01/01/intro.html"><![CDATA[<h2 id="benvenuti-alla-serata-hamburger">Benvenuti alla serata Hamburger!</h2>
-<h3 id="9-agosto-2022">9 Agosto 2022</h3>]]></content><author><name></name></author><summary type="html"><![CDATA[Benvenuti alla serata Hamburger! 9 Agosto 2022]]></summary></entry></feed>
+  <li>Carne</li>
+  <li>Burrata</li>
+  <li>Pomodori</li>
+  <li>Basilico</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Hamburger delicacato (Claire version)]]></summary></entry><entry><title type="html">Intro</title><link href="http://localhost:4000/1000/01/01/intro.html" rel="alternate" type="text/html" title="Intro" /><published>1000-01-01T00:01:52+00:49</published><updated>1000-01-01T00:01:52+00:49</updated><id>http://localhost:4000/1000/01/01/intro</id><content type="html" xml:base="http://localhost:4000/1000/01/01/intro.html"><![CDATA[<h2 id="benvenuti-alla-serata-hamburger">Benvenuti alla serata Hamburger!</h2>
+<h3 id="17-agosto-2023">17 Agosto 2023</h3>]]></content><author><name></name></author><summary type="html"><![CDATA[Benvenuti alla serata Hamburger! 17 Agosto 2023]]></summary></entry></feed>
