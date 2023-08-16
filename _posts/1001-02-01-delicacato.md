@@ -6,5 +6,5 @@ layout: presentation
 ### (Claire version)
 #### Lo hanno scelto
 
-| ![Dario](./images/Fabio.jpg) | Fabio |
-|Chiara | ![Salvatore](./images/Chiara.jpg) |
+| ![Fabio](./images/Fabio.jpg) | Fabio | ![Giovanni](./images/Giovanni.jpg) | Giovanni |
+|Chiara | ![Chiara](./images/Chiara.jpg) | Dario | ![Dario](./images/Dario.jpg)  |
